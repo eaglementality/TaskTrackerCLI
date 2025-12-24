@@ -1,0 +1,23 @@
+[
+  {
+    "id": 4,
+    "description": "Work on my assignment",
+    "status": "todo",
+    "createdAt": "24/12/2025, 13:14:34",
+    "updatedAt": "24/12/2025, 13:14:34"
+  },
+  {
+    "id": 2,
+    "description": "Work on my backend project at 12:00 pm",
+    "status": "done",
+    "createdAt": "24/12/2025, 13:16:54",
+    "updatedAt": "24/12/2025, 18:11:23"
+  },
+  {
+    "id": 3,
+    "description": "Buy groceries and cook dinner",
+    "status": "in-progress",
+    "createdAt": "24/12/2025, 13:33:16",
+    "updatedAt": "24/12/2025, 17:58:05"
+  }
+]

@@ -1,5 +1,8 @@
 ## Instructions to run the Task Tracker CLI
 
+#### Run File (index.js) with this command:
+node index.js
+
 #### Adding a new task
 task-cli add "Buy groceries"
 Output: Task added successfully (ID: 1)
@@ -22,3 +25,5 @@ task-cli list in-progress
 
 #### Project-page-URL
 https://roadmap.sh/projects/task-tracker
+
+
